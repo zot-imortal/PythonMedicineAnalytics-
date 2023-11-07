@@ -27,5 +27,19 @@ Figure 1.5 The result of using df.plot
 
 Figure.1.6 The result of using ps.pivot_table
 
+
+. Visualize the data using the PCA() method on two side by side
+located figures: left - data marked according to the value of the diagnosis,
+right - the data is labeled according to the KMeans method.
+ ![image](https://github.com/zot-imortal/PythonMedicineAnalytics-/assets/78374936/3860d648-4d4d-4d4d-91d5-a440e39a991b)
+
+Figure 3.5 data clustering using the PCA method Figure 
+![image](https://github.com/zot-imortal/PythonMedicineAnalytics-/assets/78374936/2ef42ef0-a54a-4b97-8dff-449247bbf309)
+
+3.5 marked data marked according to the value of the diagnosis
+ ![image](https://github.com/zot-imortal/PythonMedicineAnalytics-/assets/78374936/756a52aa-ec93-4287-ab8c-84e0b0e8d5bb)
+
+Figure 3.6 labeled data are labeled according to the value of the Kmeans method
+
  
 
